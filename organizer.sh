@@ -1,12 +1,5 @@
 #!/bin/bash
 
-# =============================================================================
-# organizer.sh
-# Archives the current grades.csv by timestamping it and moving it to an
-# archive/ folder, then creates a fresh empty grades.csv ready for next use.
-# Every archival action is recorded in organizer.log.
-# =============================================================================
-
 # ---------------------------------------------------------------------------
 # 1. Configuration
 # ---------------------------------------------------------------------------
